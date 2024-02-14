@@ -11,7 +11,9 @@ function asignarNombres(){
     a2 = document.getElementById('apellido2').value;
     n3 = document.getElementById('nombre3').value;
     a3 = document.getElementById('apellido3').value;
+}
 
-    alert(n1);
-    alert(a3);
+function escribirNombres() {
+    alert(a1);
+    alert(n3);
 }
